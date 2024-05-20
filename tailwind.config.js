@@ -10,7 +10,7 @@ export const theme = {
       sans: ['Inter var', ...defaultTheme.fontFamily.sans],
     },
     colors: {
-      "primary1": '#2A445D',
+      "primary1": '#',
       "secondary1": '#415B75',
       'orange': '#F08014',
       'success': '#20b799',
