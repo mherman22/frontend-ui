@@ -10,7 +10,6 @@ function App(props) {
       <Route exact path="/login" element={Login()} />
       <Route path="/register" element={Registration()} />
       </Routes>
-
     </BrowserRouter>
   );
 }
